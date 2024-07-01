@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/cube",
-    "version":"3.5.0",
+    "name": "cliqued-media/cube",
+    "version":"1.0.0",
     "description": "Cube package for KoolReport - summarize data in crosstab",
     "keywords": ["PHP","Reporting Tools","Data Report","Charts","Pivot table","crosstab"],
     "homepage": "http://koolreport.com",
